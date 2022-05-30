@@ -1,0 +1,21 @@
+help relation database
+
+https://mongoosejs.com/docs/api.html#model_Model.find
+
+
+// 1) find and remove
+
+Campground.findByIdAndRemove(req.params.id, function(err){
+      if(err){
+          res.redirect("/campgrounds");
+      } else {
+          res.redirect("/campgrounds");
+      }
+   });
+
+
+//  2)  mongoose array of objects disabled id” Code Answer
+
+   var subSchema = mongoose.Schema({
+    //your subschema content
+},{ _id : false });

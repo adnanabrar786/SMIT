@@ -1,0 +1,16 @@
+
+fronend
+https://thewebdev.info/2021/11/21/how-to-read-excel-files-in-react/
+
+backend
+
+ https://www.geeksforgeeks.org/how-to-read-and-write-excel-file-in-node-js/
+
+backend short 
+1) https://stackoverflow.com/questions/51084434/how-to-upload-an-excel-sheet-file-using-react-js-and-display-data-to-a-table
+
+2) https://www.codegrepper.com/code-examples/javascript/frameworks/react/react+upload+excel+file+and+display
+
+
+MERN stack
+https://vivianxu1230.medium.com/integrating-xlsx-file-uploading-with-a-react-apps-back-end-7a276a6c57ea
